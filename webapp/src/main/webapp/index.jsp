@@ -75,7 +75,7 @@
 </head>
 <body>
 <div class="content">
-    <h1>🌍 Welcome to My Static Website</h1>
+    <h1>🌍 Welcome to My Professional Website 2.0</h1>
     <p>This is a modern static site served by <strong>Apache Tomcat</strong> using JSP.</p>
     <form>
         <table>
