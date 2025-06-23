@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Professional Website 4.0 </title>
+    <title>Welcome to Professional Website 1.0 </title>
     <style>
         body {
             margin: 0;
@@ -75,7 +75,7 @@
 </head>
 <body>
 <div class="content">
-    <h1>🌍 Welcome to My Professional Website 4.0</h1>
+    <h1>🌍 Welcome to My Professional Website 1.0</h1>
     <p>This is a modern static site served by <strong>Apache Tomcat</strong> using JSP.</p>
     <form>
         <table>
